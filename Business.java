@@ -5,7 +5,4 @@ public class Business{
 
     System.out.println(compSci.getRoomNumber());
   }
-
-
-
 }
