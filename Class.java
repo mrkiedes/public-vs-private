@@ -3,6 +3,7 @@ public class Class{
   private int roomNumber;
   private String className;
   private String subject;
+  //hello world!
 
   public Class(){
     numComputers = 20;
